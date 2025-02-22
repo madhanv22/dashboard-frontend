@@ -4,7 +4,7 @@ import { IoNotificationsOutline } from "react-icons/io5";
 const Navbar = () => {
 
   const images = {
-    profile: '/assets/images/profile/profile.png'
+    profile: 'public/assets/profile.png'
   }
 
   return (

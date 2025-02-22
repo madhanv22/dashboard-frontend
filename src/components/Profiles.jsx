@@ -3,10 +3,10 @@ import React from 'react'
 const Profiles = () => {
 
   const images = {
-    profile1: '/assets/images/profile/profile1.jpg',
-    profile2: '/assets/images/profile/profile2.jpg',
-    profile3: '/assets/images/profile/profile3.jpg',
-  }
+    profile1: 'public/assets/profile1.jpg',
+    profile2: 'public/assets/profile2.jpg',
+    profile3: 'public/assets/profile3.jpg',
+  };  
 
   return (
     <div className='absolute w-1/4 md:w-1/3 lg:w-1/3 xl:w-1/4 top-56 right-2 mx-2 overflow-hidden'>
