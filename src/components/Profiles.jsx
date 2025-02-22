@@ -1,11 +1,14 @@
 import React from 'react'
+import profile1 from '../assets/profile1.jpg';
+import profile2 from '../assets/profile2.jpg';
+import profile3 from '../assets/profile3.jpg';
 
 const Profiles = () => {
 
   const images = {
-    profile1: 'public/assets/profile1.jpg',
-    profile2: 'public/assets/profile2.jpg',
-    profile3: 'public/assets/profile3.jpg',
+    profile1, 
+    profile2, 
+    profile3
   };  
 
   return (
