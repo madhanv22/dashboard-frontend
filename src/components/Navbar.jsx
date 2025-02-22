@@ -1,10 +1,11 @@
 import React from 'react'
 import { IoNotificationsOutline } from "react-icons/io5";
+import profile from '../assets/profile.png'
 
 const Navbar = () => {
 
   const images = {
-    profile: 'src/assets/profile.png'
+    profile
   }
 
   return (
