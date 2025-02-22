@@ -3,9 +3,9 @@ import React from 'react'
 const Profiles = () => {
 
   const images = {
-    profile1: 'public/assets/images/profile/profile1.jpg',
-    profile2: 'public/assets/images/profile/profile2.jpg',
-    profile3: 'public/assets/images/profile/profile3.jpg',
+    profile1: '/assets/images/profile/profile1.jpg',
+    profile2: '/assets/images/profile/profile2.jpg',
+    profile3: '/assets/images/profile/profile3.jpg',
   }
 
   return (
